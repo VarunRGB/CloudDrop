@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+boto3==1.37.18
+SQLAlchemy==2.0.39
+PyJWT==2.10.1
+pwdlib[argon2]==0.2.1
+pydantic-settings==2.8.1
+email-validator==2.2.0
+python-multipart==0.0.20
